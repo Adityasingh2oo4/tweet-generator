@@ -8,6 +8,11 @@ A simple web-based tool to generate tweets using Google's Gemini API, built in P
 - Clean UI using `ipywidgets`
 - Uses Gemini Pro for natural language generation
 
+## 📸 Screenshot
+
+![Tweet Generator UI](https://github.com/Adityasingh2oo4/tweet-generator/blob/main/tweet.png?raw=true)
+
+
 ## How to Run
 
 1. Open the Colab notebook.
